@@ -1,6 +1,6 @@
 # Welcome to the Covid-19 Forecast Webpage! 
 
-<img src="myimage.png" width="800" />
+<img src="download (1).jpg" width="800" />
 
  Weekly Updates on the Covid-19 Cases 
 
