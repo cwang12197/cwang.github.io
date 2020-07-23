@@ -1,6 +1,6 @@
-title: Welcome to the Covid-19 Forecast Webpage! 
+##Welcome to the Covid-19 Forecast Webpage! 
 
-description: Weekly Updates on the Covid-19 Cases 
+ Weekly Updates on the Covid-19 Cases 
 
 ### Markdown
 
